@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![dance](https://media.giphy.com/media/zQLjk9d31jlMQ/giphy.gif)
+<img src="https://media.giphy.com/media/zQLjk9d31jlMQ/giphy.gif" width="100%">
 
 <!--
 **kai-lma/kai-lma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
